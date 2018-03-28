@@ -16,3 +16,13 @@ function multiply() {
 function divide() {
   return a / b
 }
+
+function inc() {
+  return a++
+}
+
+function dec() {
+  return a--
+}
+}
+}
