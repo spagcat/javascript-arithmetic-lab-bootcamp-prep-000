@@ -1,4 +1,10 @@
 
 var a, b
 
-function()
+function add() {
+  return a + b
+}
+
+function substract() {
+  return a - b
+}
