@@ -7,30 +7,30 @@ function add(a, b) {
   return a + b
 }
 
-function subtract() {
+function subtract(a, b) {
   return a - b
 }
 
-function multiply() {
+function multiply(a, b) {
   return a * b
 }
 
-function divide() {
+function divide(a, b) {
   return a / b
 }
 
-function inc() {
+function inc(a) {
   return a++
 }
 
-function dec() {
+function dec(a) {
   return a--
 }
 
-function makeInt() {
+function makeInt(a) {
   return parseInt(a)
 }
 
-function preserveDecimal() {
+function preserveDecimal(a) {
   return parseFloat(a)
 }
