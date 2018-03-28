@@ -24,5 +24,5 @@ function inc() {
 function dec() {
   return a--
 }
-}
-}
+
+function int() {
